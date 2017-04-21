@@ -1,0 +1,11 @@
+[Activity]
+name = Sketchometry
+service_name = de.gym-tir.de.SketchometryActivity
+bundle_id = de.gym-tir.de.SketchometryActivity
+icon = Sketchometry
+exec = sugar-activity SketchometryActivity.SketchometryActivity
+show_launcher = yes
+activity_version = 3
+mime_types = text/plain
+license = GPLv3+
+summmary = Draw dynamic geometric sketches

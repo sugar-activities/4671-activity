@@ -1,0 +1,314 @@
+#dlg-header-left {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#dlg-header-right {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-undo {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-redo {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-drag {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-construct {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-tools {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-actions {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-ruler {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-slider {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-actions-function {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-regpolygon {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-anglesector {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-circlesector {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#tools-text {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-actions-hide {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-actions-measure {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-actions-del {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-boardprop {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#control-gallery {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#grid-visible {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#grid-snap-to-grid {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#grid-snap-to-point {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#label-visible {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#color-tab-stroke {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#color-tab-fill {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#color-tab-label {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#status-trace {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#status-fix {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#image-size-label,
+#point-size-label {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-size-minus,
+#image-size-minus,
+#color-field-minus {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-size-plus,
+#image-size-plus,
+#color-field-plus {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#color-palette-none {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#color-field-label {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-style-button-circle {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-style-button-square {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-style-button-cross {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#point-style-button-plus {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-button-arrow-first {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-button-arrow-last {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-button-first {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-button-last {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-related-midpoint {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#line-related-measure, .line-related-measure {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#sector-related-measure, .sector-related-measure {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#angle-related-measure, .angle-related-measure {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#angle-button-rightangle {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#board-clear-all {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#board-clear-traces {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#board-axis-visible {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#board-navzoom {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-up {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-down {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-left {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-right {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-center {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-zoom-in {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-zoom-out {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#nav-zoom-100 {
+	background-size: 1200px 756px; 
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#key-curve {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#key-slide {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
+
+#key-hwr {
+    background-size: 1200px 756px;
+    background-image: url(../pics/sui-exo-icon-map-white-64.png);
+}
